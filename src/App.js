@@ -8,7 +8,7 @@ import ApodMain from './components/ApodMain.js';
 function App() {
   return (
     <div className="App">
-      <h1>NPOD</h1>
+      <h1>Nasa Astronomy Photo of the Day</h1>
       <ApodMain />
     </div>
   );
