@@ -31,3 +31,11 @@
     transform: rotate(360deg);
   }
 }
+
+/* ---------------------------------------- */
+
+.apod-photo {
+  border-radius: 15px;
+  width: 60%;
+
+}
